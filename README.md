@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>Hey there! I'm **Najmuddin**, a passionate **Full-Stack JavaScript Developer** with nearly 3 years of hands-on experience building scalable and modern web & mobile applications using the **MERN Stack (MongoDB, Express, React, Node.js)**.<br>
+Hey there! I'm **Najmuddin**, a passionate **Full-Stack JavaScript Developer** with nearly 3 years of hands-on experience building scalable and modern web & mobile applications using the **MERN Stack (MongoDB, Express, React, Node.js)**.
 
 
 ## 🌐 Socials:
